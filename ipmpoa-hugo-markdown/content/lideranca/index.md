@@ -6,7 +6,7 @@ weight: 14
 
 ## Pastor
 
-- Josinaldo Custódio do Nascimento
+### Josinaldo Custódio do Nascimento
 
 (55) 98444-4828
 
@@ -14,17 +14,17 @@ weight: 14
 
 ## Presbíteros
 
-- Francisco Savedra
+### Francisco Savedra
 
 (51) 99263-5643
 
 
-- Vagner Silveira
+### Vagner Silveira
 
 (51) 98119-3192
 
 
-- Daniel Oliveira
+### Daniel Oliveira
 
 (51) 99452-5204
 
