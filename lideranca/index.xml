@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Liderancas on Igreja Presbiteriana Metropolitana de Porto Alegre</title>
+    <link>http://www.ipmpoa.org.br/lideranca/</link>
+    <description>Recent content in Liderancas on Igreja Presbiteriana Metropolitana de Porto Alegre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 09 May 2017 18:11:39 -0300</lastBuildDate>
+    
+	<atom:link href="http://www.ipmpoa.org.br/lideranca/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Liderança</title>
+      <link>http://www.ipmpoa.org.br/lideranca/</link>
+      <pubDate>Tue, 09 May 2017 18:11:39 -0300</pubDate>
+      
+      <guid>http://www.ipmpoa.org.br/lideranca/</guid>
+      <description>Pastor  Josinaldo Custódio do Nascimento  (55) 98444-4828
+Presbíteros  Francisco Savedra  (51) 99263-5643
+ Vagner Silveira  (51) 98119-3192
+ Daniel Oliveira  (51) 99452-5204</description>
+    </item>
+    
+  </channel>
+</rss>

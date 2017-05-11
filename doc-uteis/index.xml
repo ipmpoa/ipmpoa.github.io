@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Doc-uteis on Igreja Presbiteriana Metropolitana de Porto Alegre</title>
+    <link>http://www.ipmpoa.org.br/doc-uteis/</link>
+    <description>Recent content in Doc-uteis on Igreja Presbiteriana Metropolitana de Porto Alegre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 09 May 2017 18:20:30 -0300</lastBuildDate>
+    
+	<atom:link href="http://www.ipmpoa.org.br/doc-uteis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Documentos Úteis</title>
+      <link>http://www.ipmpoa.org.br/doc-uteis/</link>
+      <pubDate>Tue, 09 May 2017 18:20:30 -0300</pubDate>
+      
+      <guid>http://www.ipmpoa.org.br/doc-uteis/</guid>
+      <description>Símbolos de Fé Confissão de Fé de Westminster
+Catecismo Maior de Westminster
+Breve Catecismo de Westminster
+Manuais e documentos úteis Manual Unificado
+Manual Presbiteriano (Constituição)
+Código de Disciplina
+Princípios de Liturgia
+Confecção de Atas Eletrônicas
+História Constituição Original</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contatos on Igreja Presbiteriana Metropolitana de Porto Alegre</title>
+    <link>http://www.ipmpoa.org.br/contato/</link>
+    <description>Recent content in Contatos on Igreja Presbiteriana Metropolitana de Porto Alegre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 09 May 2017 18:29:39 -0300</lastBuildDate>
+    
+	<atom:link href="http://www.ipmpoa.org.br/contato/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contato</title>
+      <link>http://www.ipmpoa.org.br/contato/</link>
+      <pubDate>Tue, 09 May 2017 18:29:39 -0300</pubDate>
+      
+      <guid>http://www.ipmpoa.org.br/contato/</guid>
+      <description>Telefone (51) 3029.2220
+E-mail ipm.porto.alegre@gmail.com</description>
+    </item>
+    
+  </channel>
+</rss>
