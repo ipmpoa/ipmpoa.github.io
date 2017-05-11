@@ -8,11 +8,11 @@ weight: 10
 
 <img src="images/logo/logo-ipm.png" align="left" height="100" style="padding:10px;" />
 <p style="text-align:justify">
-A Igreja Presbiteriana Metropolitana (IPM) de Porto Alegre é uma igreja federada a Igreja Presbiteriana do Brasil (IPB). Abaixo você pode ler uma breve história sobre a igreja.
+A Igreja Presbiteriana Metropolitana (IPM) de Porto Alegre é uma igreja federada à Igreja Presbiteriana do Brasil (IPB). Abaixo você pode ler uma breve história sobre a igreja.
 <p/>
 
 
-## O QUE É IPB
+## O QUE É A IPB
 
 <img src="images/logo/logo-ipb.png" align="right" height="100" style="padding:10px;" />
 <p style="text-align:justify">
