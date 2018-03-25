@@ -14,10 +14,6 @@ weight: 14
 
 ## Presbíteros
 
-### Francisco Savedra
-
-(51) 99263-5643
-
 
 ### Vagner Silveira
 
