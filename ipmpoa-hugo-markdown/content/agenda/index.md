@@ -12,7 +12,7 @@ weight: 12
 
 ## Terça-feira
 
-19h30min -- Reunião de oração
+20h -- Reunião de oração
 
 ## Quinta-feira
 
