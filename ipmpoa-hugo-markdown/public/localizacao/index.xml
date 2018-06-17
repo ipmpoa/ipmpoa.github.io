@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Localizacaos on Igreja Presbiteriana Metropolitana de Porto Alegre</title>
+    <link>http://www.ipmpoa.org.br/localizacao/</link>
+    <description>Recent content in Localizacaos on Igreja Presbiteriana Metropolitana de Porto Alegre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 09 May 2017 16:43:50 -0300</lastBuildDate>
+    
+	<atom:link href="http://www.ipmpoa.org.br/localizacao/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Localização</title>
+      <link>http://www.ipmpoa.org.br/localizacao/</link>
+      <pubDate>Tue, 09 May 2017 16:43:50 -0300</pubDate>
+      
+      <guid>http://www.ipmpoa.org.br/localizacao/</guid>
+      <description>Endereço Rua Juarez Távora, 44 – Vila Joao Pessoa, Porto Alegre – RS
+Foto da Entrada Mapa  Abrir no google maps</description>
+    </item>
+    
+  </channel>
+</rss>
