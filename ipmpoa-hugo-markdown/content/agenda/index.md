@@ -6,7 +6,7 @@ weight: 12
 
 ## Domingo
 
-17h -- Escola Bíblica Dominical (Horátio de inverno)
+17h -- Escola Bíblica Dominical (Horário de inverno)
 
 19h -- Culto Vespertino
 

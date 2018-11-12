@@ -59,7 +59,7 @@ indexes = ""
 	weight = 11
 
 [[menu.main]]
-	name   = "Agenda"
+	name   = "Agenda/Horários"
 	url    = "agenda/"
 	weight = 12
 
