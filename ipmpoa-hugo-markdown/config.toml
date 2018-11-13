@@ -20,8 +20,9 @@ indexes = ""
 	#repo_url = "https://github.com/digitalcraftsman/hugo-material-docs"
 
 	#version = "1.0.0"
-	logo = "images/logo/logo-ipm.png"
-	favicon = "images/logo/logo-ipm-pequena.png"
+	favicon = "images/logo/logo-ipm.png"
+	logo = "images/logo/logo-ipm-quadrada.png"
+	#logo = "images/logo/logo-ipm-pequena.png"
 
 	#permalink = "#"
 
